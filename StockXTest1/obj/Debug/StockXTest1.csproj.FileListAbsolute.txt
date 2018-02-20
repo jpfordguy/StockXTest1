@@ -1,0 +1,11 @@
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\obj\Debug\StockXTest1.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\obj\Debug\StockXTest1.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\StockXTest1.exe.config
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\StockXTest1.exe
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\StockXTest1.pdb
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\Npgsql.dll
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\Npgsql.xml
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\obj\Debug\StockXTest1.exe
+C:\Users\Jeff\source\repos\StockXTest1\StockXTest1\obj\Debug\StockXTest1.pdb

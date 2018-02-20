@@ -1,0 +1,6 @@
+<settings>
+  <server>localhost</server>
+  <port>5432</port>
+  <userid>postgres</userid>
+  <password>password</password>
+</settings>
